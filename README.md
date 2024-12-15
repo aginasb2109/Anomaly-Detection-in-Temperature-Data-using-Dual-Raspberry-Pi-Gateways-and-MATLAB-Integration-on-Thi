@@ -96,8 +96,3 @@ Here is the system architecture diagram for better understanding:
 
 
 
-- Special thanks to the [MATLAB](https://www.mathworks.com) community for powerful data analysis tools.
-
----
-
-This README will help users understand how your project works, how to set it up, and how to get started with their own version of the system. Make sure to replace the placeholder API keys and details before pushing your code to GitHub.
