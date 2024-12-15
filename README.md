@@ -87,19 +87,12 @@ This project involves a system that uses two Arduinos and two Raspberry Pi units
 
 ---
 
-## Adding a Project Diagram (Image)
 
-To add an image to your GitHub project (for example, a diagram showing the system architecture), follow these steps:
+## Project Diagram
 
-1. **Add the image to your project folder**: Place the image (e.g., `project_diagram.png`) in your project directory.
+Here is the system architecture diagram for better understanding:
 
-2. **Link the image in your README**: Use the following markdown syntax to add the image to your README file:
-   
-   ```markdown
-   ![Project Diagram](project_diagram.png)
-   ```
-
-   Ensure the image file is in the same folder as your README. If the image is in a different folder, adjust the path accordingly (e.g., `images/project_diagram.png`).
+![Project Diagram](diagram.png)
 
 
 - Special thanks to the [MATLAB](https://www.mathworks.com) community for powerful data analysis tools.
