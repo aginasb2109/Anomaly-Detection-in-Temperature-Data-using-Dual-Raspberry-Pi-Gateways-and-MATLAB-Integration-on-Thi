@@ -92,7 +92,8 @@ This project involves a system that uses two Arduinos and two Raspberry Pi units
 
 Here is the system architecture diagram for better understanding:
 
-![Project Diagram](diagram.png)
+![Project Diagram](Diagram.png)
+
 
 
 - Special thanks to the [MATLAB](https://www.mathworks.com) community for powerful data analysis tools.
