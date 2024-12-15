@@ -16,7 +16,7 @@ def read_and_send_data():
                        
                         parts = data.split() 
                         temp_value = float(parts[0].split(":")[1])
-                        humidity_value = float(parts[1].split(":")[1])
+                       
                     except (ValueError, IndexError) as e:
                         print("Error parsing data:", e)
                         continue
@@ -25,8 +25,7 @@ def read_and_send_data():
                     url = "https://api.thingspeak.com/update"
                     params = {
                         "api_key": "",  # Your ThingSpeak Write API key
-                        "field1": temp_value,  # Temperature data
-                        "field2": humidity_value  # Humidity data
+                        "field2": temp_value,  # Humidity data
                     }
                     
                     # Send the data to ThingSpeak
