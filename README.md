@@ -101,12 +101,7 @@ To add an image to your GitHub project (for example, a diagram showing the syste
 
    Ensure the image file is in the same folder as your README. If the image is in a different folder, adjust the path accordingly (e.g., `images/project_diagram.png`).
 
----
 
-## Acknowledgments
-
-- Thank you to the creators of the [DHT11](https://www.adafruit.com/product/386) and [DHT22](https://www.adafruit.com/product/385) sensors.
-- Thanks to the [ThingSpeak](https://thingspeak.com) platform for providing easy IoT integration.
 - Special thanks to the [MATLAB](https://www.mathworks.com) community for powerful data analysis tools.
 
 ---
