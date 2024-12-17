@@ -1,5 +1,5 @@
 
-# Dual-Arduino and Raspberry Pi Temperature Monitoring System with Malicious Data Detection
+# Anomaly Detection in Temperature Data using Dual Raspberry Pi Gateways and MATLAB Integration on ThingSpeak
 
 ## Project Overview
 This project involves a system that uses two Arduinos and two Raspberry Pi units to monitor temperatures in different rooms (living room and bedroom) while detecting and handling malicious data alterations. The system reads temperature data from sensors, sends it to a cloud platform (ThingSpeak), and performs data analysis, triggering an alert if the temperature exceeds a defined threshold.
